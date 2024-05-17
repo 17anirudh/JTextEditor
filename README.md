@@ -31,9 +31,3 @@ javac Head.java
 java Head
 ```
 
-## Screenshots
-![Text Editor when light mode](./Light mode.png)
-
-![Text Editor when dark mode](./Dark mode.png)
-
-
